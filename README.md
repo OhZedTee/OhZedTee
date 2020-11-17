@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <br />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=OhZedTee&show_icons=true)
+<p> Previous Username </p>
+![github stats](https://github-readme-stats.vercel.app/api?username=ori78&show_icons=true)
 
 ##  Contact Me 💬
 
