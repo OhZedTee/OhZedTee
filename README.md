@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/-MYSQL-4d008f?style=flat&logo=MySQL&logoColor=white"> 
 <br />
-<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab">
+<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab"> <img src="https://img.shields.io/badge/-Scrum-7B16FF?style=flat"> <img src="https://img.shields.io/badge/-Agile%20Development-FF6550?style=flat&logo=AddThis&logoColor=ffffff">
 
 
 <div align="center" width="50">
