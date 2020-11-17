@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 
 <br />
 
+![](https://github.com/OhZedTee/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/OhZedTee/github-stats/blob/master/generated/languages.svg)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=OhZedTee&show_icons=true)
 
 ## Pronouns 😄
