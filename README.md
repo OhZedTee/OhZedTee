@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+
+# Hello World! <img src="https://github.com/OhZedTee/OhZedTee/blob/main/Hi.gif" width="30px">
+
+</div>
+
 
 <!--
 **OhZedTee/OhZedTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
