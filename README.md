@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 <br />
 
-![](https://github.com/OhZedTee/github-stats/blob/master/generated/overvieew.svg)
-![](https://github.com/OhZedTee/github-stats/blob/master/generated/languagees.svg)
+![](https://github.com/OhZedTee/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/OhZedTee/github-stats/blob/master/generated/languages.svg)
 
 ## Pronouns 😄
 
