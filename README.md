@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## Website 📫
 
-<a href="https://www.otalmor.com"><img alt="Website" src="https://img.shields.io/badge/-Website-FF1B2D?style=flat&logo=Opera&logoColor=ffffff"></a>
+<a href="https://www.otalmor.com"><img alt="Website" src="https://img.shields.io/badge/otalmor%2Ecom-Website-FF1B2D?style=flat&logo=Opera&logoColor=ffffff"></a>
 
 ##  Contact Me 💬
 
